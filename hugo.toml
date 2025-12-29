@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-es'
+title = 'El Meu Cloud Resume'
+theme = 'hugo-profile'
+
+[params]
+  title = "Pablo"
+  subtitle = "Estudiant d'ASIX & Cloud Enthusiast"
+  
+  [params.navbar]
+    enable = true

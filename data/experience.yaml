@@ -1,0 +1,41 @@
+enable: true
+title: "Experiencia"
+
+items:
+  - title: "Cloud Resume Challenge"
+    company: "Proyecto Personal"
+    date: "Diciembre 2025"
+    info: "Cloud Engineer"
+    summary: |
+      Despliegue de arquitectura Serverless en AWS: Web estática (Hugo) con HTTPS, base de datos DynamoDB, API Gateway y Lambda (Python) para contador de visitas, con CI/CD automatizado.
+
+  - title: "Técnico en Prácticas (FCT)"
+    company: "imaginArt"
+    date: "2024 - Presente"
+    info: "1000 Horas | Sector Audiovisual"
+    summary: |
+      Realización de 1000 horas de prácticas en empresa especializada en soluciones audiovisuales profesionales.
+      * Soporte técnico en sistemas de audio y vídeo.
+      * Configuración de equipos y redes para entornos AV.
+      * Obtención de certificaciones técnicas especializadas (Dante y Extron).
+
+  - title: "Aprendiz de reformas"
+    company: "Sector Construcción"
+    date: "Junio 2024 - Septiembre 2024"
+    info: "Ayudante"
+    summary: |
+      Ayuda al capataz de obra en labores de reforma, desarrollando capacidad de esfuerzo físico y trabajo en equipo.
+
+  - title: "Gestión de RRSS y Comunicación"
+    company: "Empresa Familiar"
+    date: "2024"
+    info: "Gestor de Comunicación B2C"
+    summary: |
+      Actualización y comunicación con clientes (UX) y gestión de redes sociales.
+
+  - title: "Voluntariado y Monitor"
+    company: "Club de Taekwondo"
+    date: "2021 - 2024"
+    info: "Monitor y Asistente"
+    summary: |
+      Monitor en campamentos de verano, asistencia al dojung y ayuda en el desarrollo del gimnasio. (Cinturón Negro 1er DAN).

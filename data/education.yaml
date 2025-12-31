@@ -1,0 +1,13 @@
+enable: true
+title: "Estudios"
+
+items:
+  - title: "CFGS Administración de Sistemas Informáticos en Red"
+    company: "Institut TIC"
+    date: "2023 - Presente"
+    summary: "Cursando actualmente estudios superiores de administración de sistemas."
+
+  - title: "Bachillerato de Ciencias Sociales"
+    company: "Institut Joan d'Àustria"
+    date: "2020 - 2023"
+    summary: "Graduado en Bachillerato."

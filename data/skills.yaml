@@ -1,0 +1,30 @@
+enable: true
+title: "Habilidades"
+
+items:
+  - title: "Sistemas y Redes"
+    color: "#007bff" # Azul
+    knowledges:
+      - "Administración de Sistemas"
+      - "Redes y Comunicaciones"
+      - "AWS (Cloud Computing)"
+
+  - title: "Certificaciones AV"
+    color: "#e83e8c" # Rosa/Rojo (para destacar)
+    knowledges:
+      - "Certificación DANTE (Audio sobre IP)"
+      - "Certificación EXTRON (Sistemas de Control)"
+
+  - title: "Programación y Web"
+    color: "#28a745" # Verde
+    knowledges:
+      - "HTML / CSS"
+      - "PostgreSQL"
+      - "Python (Básico)"
+
+  - title: "Idiomas"
+    color: "#ffc107" # Amarillo
+    knowledges:
+      - "Español (Nativo)"
+      - "Catalán (Nativo)"
+      - "Inglés (B2 - Avanzado)"

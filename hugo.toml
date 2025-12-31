@@ -1,11 +1,35 @@
-baseURL = 'http://example.org/'
-languageCode = 'es-es'
-title = 'El Meu Cloud Resume'
+baseURL = 'https://dominipgm.cat/'
+languageCode = 'en-us'
+title = 'Pablo Garcia - Cloud Resume'
 theme = 'hugo-profile'
 
 [params]
-  title = "Pablo"
-  subtitle = "Estudiant d'ASIX & Cloud Enthusiast"
-  
-  [params.navbar]
-    enable = true
+    title = "Pablo Garcia Martinez"
+    subtitle = "Estudiante de Administración de Sistemas | Cloud Enthusiast"
+    favicon = "/images/favicon.ico" 
+
+    [params.navbar]
+        enable = true
+
+    # --- PORTADA ---
+    [params.hero]
+        enable = true
+        title = "Hola, soy Pablo Garcia"
+        subtitle = "Estudiante de Administración de Sistemas en Red"
+        avatar = "images/avatar.jpg"  #foto con este nombre
+
+    # --- SOBRE MÍ ---
+    [params.about]
+        enable = true
+        title = "Sobre mí"
+        content = "Estudiante proactivo interesado en la administración de sistemas. Tengo conocimientos en programación y gestión de bases de datos. Busco un puesto que me permita empezar y desarrollarme en un entorno profesional, contribuyendo con mis habilidades y entusiasmo por un éxito común."
+
+    # --- SECCIONES ---
+    [params.education]
+        enable = true
+
+    [params.experience]
+        enable = true
+
+    [params.skills]
+        enable = true

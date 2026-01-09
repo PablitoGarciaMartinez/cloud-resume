@@ -1,4 +1,4 @@
-baseURL = 'https://dominipgm.cat/'
+baseURL = 'https://cv.aws10.dominipgm.cat/'
 languageCode = 'en-us'
 title = 'Pablo Garcia - Cloud Resume'
 theme = 'hugo-profile'

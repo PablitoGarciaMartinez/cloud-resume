@@ -10,7 +10,7 @@ theme = 'hugo-profile'
 
     [params.navbar]
         enable = true
-        brandLogo = "static/images/Captura.png"
+        brandLogo = "public/images/Captura.png"
 
     # --- PORTADA ---
     [params.hero]

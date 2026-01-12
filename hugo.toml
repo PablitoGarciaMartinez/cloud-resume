@@ -6,7 +6,7 @@ theme = 'hugo-profile'
 [params]
     title = "Pablo Garcia Martinez"
     subtitle = "Estudiante de Administración de Sistemas | Cloud Enthusiast"
-    favicon = "/images/favicon.ico" 
+    favicon = "/images/milogo.png" 
 
     [params.navbar]
         enable = true

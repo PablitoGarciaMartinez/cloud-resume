@@ -27,10 +27,10 @@ theme = 'hugo-profile'
 
     # --- SECCIONES ---
     [params.education]
-        enable = true
+        enable = false
 
     [params.experience]
         enable = true
 
     [params.skills]
-        enable = true
+        enable = false
